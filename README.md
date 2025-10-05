@@ -1,6 +1,8 @@
 # ExeAnatomy - Static Malware Analyzer
 A C++ tool for analyzing PE (Portable Executable) files to detect potential malware through static analysis.
 
+<img width="544" height="220" alt="Banner" src="https://github.com/user-attachments/assets/35e3162c-f0cc-4e68-a827-6789ea28bff7" />
+
 ## Features
 - Parse PE headers (DOS, NT, Optional, Section headers)
 - Calculate section entropy to detect packed/encrypted code
