@@ -38,12 +38,14 @@ g++ -std=c++11 src/*.cpp -o analyzer.exe -lssl -lcrypto
 
 ## Examples
 
-WannaCry Malware Test
+WannaCry Malware Test:
+
 <img width="590" height="678" alt="wn1" src="https://github.com/user-attachments/assets/0f904dd9-fdef-46a1-bf0f-a6ee6158dd39" />
 <img width="619" height="627" alt="wn2" src="https://github.com/user-attachments/assets/96d62a1f-22f2-4fa3-
 bd49-597523d9cc27" />
 
-Task Manager Test
+Task Manager Test:
+
 <img width="966" height="709" alt="tsk1" src="https://github.com/user-attachments/assets/20dcde5f-af23-42c3-8f1c-8991db8003fa" />
 <img width="913" height="439" alt="tsk2" src="https://github.com/user-attachments/assets/0d52aac1-3c27-4689-96b5-d341aedb6bf1" />
 
