@@ -41,8 +41,9 @@ g++ -std=c++11 src/*.cpp -o analyzer.exe -lssl -lcrypto
 WannaCry Malware Test:
 
 <img width="590" height="678" alt="wn1" src="https://github.com/user-attachments/assets/0f904dd9-fdef-46a1-bf0f-a6ee6158dd39" />
-<img width="619" height="627" alt="wn2" src="https://github.com/user-attachments/assets/96d62a1f-22f2-4fa3-
-bd49-597523d9cc27" />
+<img width="619" height="627" alt="wn2" src="https://github.com/user-attachments/assets/541078ad-cd23-4d2b-8b68-1d159077de1b" />
+
+
 
 Task Manager Test:
 
