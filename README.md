@@ -25,7 +25,7 @@ cd ExeAnatomy
 g++ -std=c++11 src/*.cpp -o analyzer -lssl -lcrypto
 ```
 
-### Windows (MSYS2 MinGW)1
+### Windows (MSYS2 MinGW)
 ```bash
 git clone https://github.com/tutkunbatu/ExeAnatomy.git
 cd ExeAnatomy
