@@ -1,4 +1,4 @@
-<img width="966" height="709" alt="tsk1" src="https://github.com/user-attachments/assets/5aa146e6-6a33-435b-9b45-f15f40397ce7" /><img width="590" height="678" alt="wn1" src="https://github.com/user-attachments/assets/17fe9a22-d7b3-46f7-83b9-38f6c142eeec" /># ExeAnatomy - Static Malware Analyzer
+# ExeAnatomy - Static Malware Analyzer
 A C++ tool for analyzing PE (Portable Executable) files to detect potential malware through static analysis.
 
 <img width="544" height="220" alt="Banner" src="https://github.com/user-attachments/assets/35e3162c-f0cc-4e68-a827-6789ea28bff7" />
