@@ -9,7 +9,7 @@ A C++ tool for analyzing PE (Portable Executable) files to detect potential malw
 - Extract and analyze ASCII strings
 - Parse import tables (DLLs and functions)
 - Compute MD5 and SHA256 hashes
-- Risk scoring based on suspicious APIs, high entropy, and URLs
+- Risk scoring based on suspicious APIs, high entropy and URLs
 - JSON and human-readable reports
 
 ## Requirements
@@ -23,10 +23,15 @@ git clone https://github.com/tutkunbatu/ExeAnatomy.git
 cd ExeAnatomy
 g++ -std=c++11 src/*.cpp -o analyzer -lssl -lcrypto
 
-### Windows (MSYS2 MinGW)
+### Windows (MSYS2 MinGW)1
+```bash
 git clone https://github.com/tutkunbatu/ExeAnatomy.git
 cd ExeAnatomy
 g++ -std=c++11 src/*.cpp -o analyzer.exe -lssl -lcrypto
-
+```
 ## Usage
+```bash
 ./exeanatomy <file.exe>
+```
+
+
