@@ -19,9 +19,11 @@ A C++ tool for analyzing PE (Portable Executable) files to detect potential malw
 
 ## Building
 ### Linux
+```bash
 git clone https://github.com/tutkunbatu/ExeAnatomy.git
 cd ExeAnatomy
 g++ -std=c++11 src/*.cpp -o analyzer -lssl -lcrypto
+```
 
 ### Windows (MSYS2 MinGW)1
 ```bash
